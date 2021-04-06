@@ -1,0 +1,9 @@
+*.out
+*.unused.*
+
+aaa
+bbb
+ccc
+
+
+/.vscode
